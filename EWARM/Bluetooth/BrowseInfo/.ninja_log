@@ -1,0 +1,346 @@
+# ninja log v5
+2789	4127	6902155103920048	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	544c7873c56a3c52
+845	1077	6904528080000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.xcl	fd1b3c4ca8378ac
+833	1058	6904528080000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.xcl	5dab4706fe932f43
+1300	1497	6904528080000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.xcl	b2af302ec493fe2a
+15935	17974	6902155242196315	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.pbi	cc5924bd85e7d8ec
+1084	1321	6904528080000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.xcl	8d9457c6c9020c7e
+2522	2779	6902155090000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.xcl	98dd7d089eb3e45f
+1975	2226	6902155080000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.xcl	8ded666e0af311df
+7120	8655	6902155149230917	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.pbi	36555e48994b8f0a
+731	1152	6902155070000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.xcl	1781f3214728d84f
+7384	8906	6902155151574578	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.pbi	b45b41f5a3e6f60b
+1718	1963	6902155080000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.xcl	dc12e82d24b98616
+9	1167	6910522939542310	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.pbi	ecdfa77ae975798a
+2141	2427	6902155080000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.xcl	9abe65176536a3a3
+494	724	6902155060000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/stm32f4xx_it.xcl	c61b9e5583aeb1d7
+1447	1707	6902155070000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.xcl	b51197a9d8d33357
+13	225	6902155060000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.xcl	cf322820d69e21c9
+2235	2512	6902155080000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.xcl	fab5ae1219e4dc09
+6	239	6902155060000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.xcl	74cd6bfe4823c784
+10134	11705	6902155179698567	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.pbi	4b6845f053a846ab
+235	470	6902155060000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.xcl	3e7b768e5e3a44b7
+248	485	6902155060000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.xcl	a5a01ea17a5246df
+480	711	6902155060000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.xcl	8ec4ede2a8326b1c
+7	2729	6902156814017719	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	63fbb45532009526
+9	700	6902156719021123	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	a1bd8ab2b8ff53ef
+719	1090	6902155070000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.xcl	51a76d00bd01fea2
+4236	5242	6910523065944038	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.pbi	1d0565d5612aed2a
+15	362	6904528070000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.xcl	868e2881f06cad86
+17325	18715	6902155249696038	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.pbi	5f335d22658256ad
+1101	1353	6902155070000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.xcl	4e9abf4a6aa568f6
+10579	12440	6902155187042049	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.pbi	392744220536a9b8
+1167	1437	6902155070000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.xcl	c8c603c4aacc26ce
+5736	7116	6902155133762732	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.pbi	ab63610dacf9bc23
+2173	2384	6904528090000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.xcl	8c2222abc4023331
+704	1318	6902156725114648	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	1062859c91fcf528
+1637	1881	6902155080000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.xcl	e953827dbbe78c1b
+1364	1626	6902155070000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.xcl	e89117e4b1e91bee
+1892	2131	6902155080000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.xcl	93e21948f8ead02f
+4387	6010	6902155122669369	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.pbi	9bf016c63e7837ea
+19651	20944	6902155272038996	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.pbi	90846976fa32740
+2434	2719	6902155080000000	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.xcl	c23518cf38a680b
+4131	5732	6902155119856986	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.pbi	b512e590ebfb11be
+6014	7379	6902155136418872	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.pbi	1e53086a67c0bd83
+12445	14626	6902155208447530	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.pbi	f8c60c264386627f
+8659	10129	6902155163917901	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.pbi	8ed5a5740284b6fb
+8911	10574	6902155168136486	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.pbi	f0773cf972cd9e8b
+1068	1288	6904528080000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.xcl	47d55b7f014c023d
+10	2839	6916705653821979	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+1332	1514	6904528080000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.xcl	b930f64fc5be3dfa
+11710	13868	6902155201104057	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.pbi	39fc0fcfa5562e04
+13872	15932	6902155221884549	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.pbi	bb3281761e0f98cd
+14631	17321	6902155235790291	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.pbi	18e58ca882b7e47f
+17979	19395	6902155256570801	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.pbi	355e76e1f4ebbe75
+18719	19645	6902155259070711	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part3.pbi	9baae8cb6445e247
+19400	20407	6902155266726692	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part2.pbi	a07c8a91e665bdc6
+20413	21456	6902155277195052	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part1.pbi	b32e27b24863ef5d
+358	573	6904528070000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/stm32f4xx_it.xcl	d9e352705c7f4004
+21463	22519	6902155287819679	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part4.pbi	4fdd8713b238e00e
+6311	7451	6910523088130718	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc.pbi	d70bbb33cc43570a
+1326	1904	6902156731051940	C:/Users/205/Downloads/Bluetooth (3)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	fdc3b6afec408b8b
+6	348	6904528070000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.xcl	5bb16c89ac0fb444
+371	595	6904528070000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.xcl	3b77c41b6b83cc7d
+584	821	6904528080000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.xcl	5c0aad182b511695
+603	837	6904528080000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.xcl	74d6c85c67126ee
+1509	1703	6904528090000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.xcl	2ab52cbe0c40c8c0
+1523	1719	6904528090000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.xcl	4726c3bfbeca477d
+1715	1902	6904528090000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.xcl	43e23e303e0e8ba8
+7456	8500	6910523098599096	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc_ex.pbi	7f79105053752f3b
+1728	1939	6904528090000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.xcl	5e5ed8ce0d863665
+1914	2147	6904528090000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.xcl	43e5f9c8cb8ee1e
+1948	2164	6904528090000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.xcl	cb13fbc541b5a6be
+2156	2364	6904528090000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.xcl	50424e46512321dd
+1231	2215	6910523035632608	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.pbi	10ce8693f3623cc0
+1215	2258	6910522950479429	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.pbi	275332d0b041af75
+9	1108	6910523024695507	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.pbi	29b3aba04f74b047
+8	726	6916709343881435	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+17	1211	6910522940011053	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	4b6302ca7c31fa15
+5491	6522	6910523078756057	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.pbi	26090d22d6ffe1d
+2263	3474	6910522962666484	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.pbi	155371f7d8967e9a
+1114	2262	6910523036257590	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.pbi	ac19d1c712dc06dc
+2220	3345	6910523047038466	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.pbi	62595be10fb2cb9d
+2267	3215	6910523045788490	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.pbi	9a0b9a669719ed32
+3221	4232	6910523055944378	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.pbi	d1b3c13ced57b018
+6526	7863	6910523092193073	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.pbi	c3a4f81d899a9849
+4437	5486	6910523068443951	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.pbi	56b7fc17702a9cb
+8506	9404	6910523107661261	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.pbi	9eda1c8263acbcdf
+5247	6305	6910523076568634	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.pbi	2d7ce84391eb2f98
+3350	4431	6910523057819304	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.pbi	cf4224cbe41948b7
+730	1499	6916709351636614	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+10852	11756	6910523131097909	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part3.pbi	a0086fecbdf99fc9
+9927	10912	6910523122660733	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part1.pbi	db6a768f2fa0fc86
+7868	8933	6910523102817694	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.pbi	495ea461a5146fa3
+19	1225	6910523025789206	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.pbi	d63d185376b68903
+9410	10356	6910523117192172	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part2.pbi	2cb26f70ac2fbf55
+10365	10846	6910523122035764	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part4.pbi	b9c3f148a32f1a26
+1508	2161	6916709358262485	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+30	394	6904567590000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc_ex.xcl	6c8049e5073ed9fe
+17	416	6904567590000000	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc.xcl	94c37be7f70e8c6b
+7	3078	6916709440814642	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+9	787	6916710631963651	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+792	1528	6916710639409023	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1538	2194	6916710646054897	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+8	2746	6916710730010880	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+6	741	6916711497062187	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+745	1533	6916711505017245	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+10	664	6916711564127588	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+671	3417	6916711590932187	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+10	743	6916737178101427	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+749	1529	6916737185913662	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1539	2180	6916737192475899	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+6	2727	6916737275910411	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+12	809	6916737760892924	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+813	1543	6916737768236427	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1552	2164	6916737774329969	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+7	2673	6916737857295695	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+9	742	6916738833510566	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+747	1466	6916738840697781	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1475	2087	6916738846947563	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+7	2837	6916738933350685	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+10	754	6916740159244063	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+760	1485	6916740166587525	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1495	2097	6916740172837313	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+9	2702	6916740256896780	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+9	755	6916741429042085	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+759	1493	6916741436385555	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1502	2177	6916741443260306	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+7	2752	6916741527944732	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+12	751	6916742518534075	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+756	1478	6916742525721305	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1488	2103	6916742531971101	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+7	2736	6916742616968020	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+9	814	6916743289756291	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+819	1540	6916743296943527	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1550	2172	6916743303349558	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+6	2817	6916743388033998	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+7	869	6922649987758383	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+874	1735	6922649996452976	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1744	2468	6922650003788428	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+2477	6851	6922650046767049	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+8	809	6922650309391089	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+814	1558	6922650316916413	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1568	2192	6922650323262490	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+2201	5334	6922650353953914	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+7	690	6922650463356571	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+695	1467	6922650471151720	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1476	2091	6922650477387846	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+2100	4755	6922650503244673	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+7	912	6922673173732088	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+917	1818	6922673182796443	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1825	2489	6922673189512296	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+2498	5741	6922673221302534	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+7	815	6922680348142490	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	4b6302ca7c31fa15
+12	961	6922680349591577	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+7	831	6922680416174844	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+840	1518	6922680423050555	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+1526	4790	6922680454960729	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+7	875	6922681222354829	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+879	1697	6922681230609716	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1707	2356	6922681237205599	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+2364	5768	6922681270544880	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+6	668	6922681838113107	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+672	1417	6922681845628426	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1426	2035	6922681851814599	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+2042	5233	6922681881989224	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+7	897	6922683429895460	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+902	1756	6922683438500108	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1764	2479	6922683445715624	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+9	3649	6922683537458613	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+8	897	6922686429352451	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+902	1716	6922686437537365	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1725	2355	6922686443953383	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+2363	5796	6922686477562514	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+9	977	6922745154610820	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	4b6302ca7c31fa15
+15	1121	6922745156069914	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+1126	1914	6922745164029563	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1923	2563	6922745170505722	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+6	2984	6922745253445219	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+14	1246	6922746549430826	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	4b6302ca7c31fa15
+9	1407	6922746551059813	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+1412	2552	6922746562522704	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+10	732	6922746624576526	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+741	3865	6922746655167518	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+9	1134	6922747527033903	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	4b6302ca7c31fa15
+14	1316	6922747528862761	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+1322	2174	6922747537437431	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+2182	2838	6922747544093294	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+2845	6266	6922747577502534	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+11	775	6922748347648504	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+780	1506	6922748354983953	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1516	2122	6922748361140123	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+13	2968	6922748448090040	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+6	658	6922749619998471	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+662	1386	6922749627313926	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1397	1992	6922749633362079	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+2000	4918	6922749661889859	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+7	727	6922752206347831	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+732	1466	6922752213773204	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1475	2112	6922752220219220	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+2119	5041	6922752248797075	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+10	776	6922767964419355	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+781	1526	6922767971924695	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1535	2138	6922767978040882	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+8	2993	6922768065220229	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+7	804	6922769133162925	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+809	1557	6922769140728230	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+8	641	6922769201403518	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+649	3558	6922769229777557	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+9	677	6922769944716441	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+682	1411	6922769952081874	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1422	2093	6922769958898103	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+9	769	6922770084261968	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+774	1520	6922770091797289	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1529	2124	6922770097844239	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+2131	5018	6922770125890184	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+7	798	6922771499149292	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+804	1596	6922771507144324	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+9	639	6922771569836994	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+649	9336	6922771656043431	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+8	758	6922772590120864	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+762	1508	6922772597656185	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1518	2202	6922772604591905	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+7	3117	6922772690856380	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+9	855	6922774385453780	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+860	1599	6922774392919131	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1608	2233	6922774399245200	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+13	2931	6922774483559498	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+10	793	6922775616368128	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+798	1522	6922775623703574	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1532	2137	6922775629829749	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+9	3094	6922775717839366	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+7	841	6922776231329315	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+846	1629	6922776239244404	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+9	688	6922776297745925	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+696	3788	6922776327997139	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+9	1007	6923568450551804	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+1012	1805	6923568458566816	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1813	2622	6923568466671793	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+8	3326	6923568552844546	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+9	748	6923569541038036	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+753	1559	6923569549162992	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1567	2191	6923569555499085	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+7	2906	6923569640080182	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+6	822	6923569901212770	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+827	1584	6923569908878021	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+7	608	6923569967623756	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+617	3625	6923569997015496	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+6	753	6923570465648452	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+757	1539	6923570473543559	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1549	2184	6923570479979546	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+2192	5379	6923570510881039	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+10	850	6923570982786675	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+855	1594	6923570990222043	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1604	2205	6923570996338241	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+6	2903	6923571080048440	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+10	1225	6923571464721486	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+1229	2040	6923571472896410	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+6	597	6923571536463371	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+605	3472	6923571564475978	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+10	884	6923598573717800	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+888	1740	6923598582282479	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1747	2412	6923598589008297	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+2421	5904	6923598623229864	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+6	719	6923599641143330	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+724	1497	6923599648958491	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1506	2098	6923599654974741	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+2105	5111	6923599684371228	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+8	784	6923603905930150	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+789	1525	6923603913355539	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1535	2154	6923603919647249	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+6	2758	6923604004701712	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+10	790	6923605798731005	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+795	1534	6923605806186363	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1546	2148	6923605812322554	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+11	2910	6923605896961816	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+7	775	6923611608407380	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+779	1507	6923611615762810	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1516	2141	6923611622108854	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+11	2646	6923611705029937	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+7	812	6923634997257812	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+817	1590	6923635005062973	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1598	2190	6923635011049238	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+2197	4870	6923635037150721	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+11	1008	6923660456498709	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+1013	1882	6923660465253258	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1891	2591	6923660472358857	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+2600	11270	6923660558425356	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+6	726	6923660810027565	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+730	1506	6923660817842711	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1517	2161	6923660824398634	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+2169	5267	6923660854721292	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+6	822	6923666209655009	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	c0f5649df742ba3c
+826	1600	6923666217480148	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	d0af9bd34442a0
+1610	2233	6923666223796220	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	7b6d9499d7890d9e
+2240	5295	6923666253697640	C:/Users/205/Downloads/Bluetooth (4)/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	87e4453fa5b47755
+582	3226	7453202940000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.xcl	b06889140b958175
+173	3311	7453202940000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.xcl	6d3d577d962c8c94
+3325	4097	7453202950000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.xcl	e5e58973633d8407
+3241	5251	7453202950000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.xcl	76e9b30bdf0c8599
+4112	7513	7453202980000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Application/User/Core/stm32f4xx_it.xcl	85893e67776800ec
+5265	7883	7453202980000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.xcl	871293ce8df738fd
+7527	8385	7453202990000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.xcl	253a08024b23a44b
+7895	8715	7453202990000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.xcl	bb52ee06702d4b87
+8400	9029	7453203000000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.xcl	20945c7844f5bc03
+8725	9334	7453203000000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.xcl	5ca397ff69fbe718
+9044	9788	7453203000000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.xcl	d246e6665e816517
+9349	9909	7453203010000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.xcl	528e6965e2370752
+9802	10279	7453203010000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.xcl	a1e3e60f9ec51a6e
+9925	10454	7453203010000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc.xcl	e9ae3c0cea3ac105
+10293	10910	7453203020000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.xcl	f88c9c3b96b028b2
+10467	11566	7453203020000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.xcl	72aed7fe63d3f107
+10924	11699	7453203020000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.xcl	bdd611e9b7e857fd
+11578	12134	7453203030000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc_ex.xcl	d0d02409ca716375
+11710	12513	7453203030000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.xcl	9264b22f4f41af36
+12149	12990	7453203040000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.xcl	56a0fb16b57c4dc0
+13004	14850	7453203060047145	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.pbi	9cba521543900399
+12525	14977	7453203061144190	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Application/User/Core/main.pbi	269be3ab40e146a8
+14856	16188	7453203073431326	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.pbi	fec66abd447c09e5
+14981	16233	7453203073820295	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.pbi	512e02834f6890a4
+16241	16686	7453203070000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.xcl	18649a4f1d02fef9
+16701	17161	7453203080000000	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.xcl	5e0089d447f754d3
+16194	17764	7453203089179222	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	c25c6811acbcf2b6
+17175	18591	7453203097467057	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.pbi	2ce167e09e154992
+17770	19063	7453203102024874	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.pbi	1fc3d5df84529a49
+18597	20026	7453203111798732	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.pbi	147a124ecb5d6d85
+19068	20387	7453203115409072	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.pbi	7ddd29a6ee54f7bb
+20033	21425	7453203125771363	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.pbi	8f750679e64cd1e8
+20393	21947	7453203130967464	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.pbi	5ab49948ef85d75b
+21429	22980	7453203141259954	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.pbi	408fe865e7ac8291
+21951	23517	7453203146645535	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.pbi	2fde8cc2c54298c8
+22986	24703	7453203158573638	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.pbi	d62b453dbd7f2bd5
+23523	25134	7453203162892078	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.pbi	619ddc252263d8ec
+24709	26330	7453203174840142	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.pbi	7376d8bc215b769b
+25140	26847	7453203179906587	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.pbi	ab867d64f3ca92d3
+26335	27880	7453203190099317	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc_ex.pbi	206f95e096d87d2b
+26851	28281	7453203194138516	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc.pbi	f26b73caa5e2bb2d
+27884	29452	7453203206046671	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.pbi	fd4b75ae1f156a9d
+28289	29793	7453203209487469	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.pbi	600ea7df677921ef
+29458	30759	7453203219101761	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.pbi	52f5d8a59851f7d2
+29798	30991	7453203221445492	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Bluetooth_part3.pbi	a579962ac8d8b01
+30764	31728	7453203228795827	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Bluetooth_part1.pbi	3770279167a082b7
+31003	32053	7453203232047147	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Bluetooth_part2.pbi	ff9cb26c25f60fef
+32064	32600	7453203237542432	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Bluetooth_part4.pbi	d824d9392d5a2bbc
+31739	32801	7453203239567016	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Bluetooth_part0.pbi	508fe838b6e07537
+32812	33552	7453203247056979	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbd	548221b67c923ed2
+33561	54023	7453203337664675	C:/Users/nowon/Desktop/Bluetooth Jin last/EWARM/Bluetooth/BrowseInfo/Bluetooth.pbw	2a67d84f80fe6cfc

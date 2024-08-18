@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>C:\Users\205\Downloads\Bluetooth (4)\Core\Src\main.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\nowon\Desktop\MX\Bluetooth\Core\Src\main.c</path>
+        <encoding>System</encoding>
+    </override>
+</userOverrides>
